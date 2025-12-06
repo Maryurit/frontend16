@@ -1,3 +1,4 @@
+'use client';
 import apiClient from './axios';
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://backend16.vercel.app/api';
